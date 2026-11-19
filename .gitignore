@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables & Secrets
+.env
+
+# Spotify Token Cache
+.cache
+.cache-*
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
